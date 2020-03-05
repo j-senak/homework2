@@ -1,1 +1,1 @@
-# homework2
+In this project, I am focusing on making a web design to resemble predetermined .jpg files. To accomplish this, I have worked with using Bootstrap code and modifying it to specifications.
