@@ -1,4 +1,4 @@
-# Template Recreation homework3
+# Template Recreation homework2
 For this project, we are recreating a presented template to the best of our abilities using Bootstrap.  
 
 # Why?
